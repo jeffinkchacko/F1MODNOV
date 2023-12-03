@@ -1,0 +1,209 @@
+#taskbar{
+    flex: 1;
+    background-color:rgba(0,0,0,1);
+    width: 371.8px;
+     height: 900px;
+     box-sizing: border-box;
+}
+#taskbar>img{
+    width: 200px;
+    margin-left: 5%;
+}
+#container{
+    flex: 5;
+    background-color:rgb(49, 43, 43);
+    width: 1728px;
+    height: 900px;
+    top: 112px;
+    left: 419px;
+
+}
+#box1{
+    display: flex;
+    box-sizing: border-box;
+}
+#lastbar{
+    background-color: rgb(49,43,43);
+    height: 100px;
+    
+}
+
+
+     .list{
+        color: white;
+        font-family: 'Times New Roman', Times, serif;
+        padding: 2%;
+        margin-left: 5px;
+        
+     }
+     .list>img{
+        margin-right: 20px;
+        margin-top: 10px;
+     }
+     #taskbar>ul>li{
+        color:white;
+        list-style-type:none;
+        margin-top: 40px;
+     }
+     .list1{
+        color: white;
+        font-family: 'Times New Roman', Times, serif;
+        padding: 2%;
+        margin-left: 5px;
+        margin-top: 30px;
+     }
+     .list1>img{
+        margin-right: 20px;
+        margin-top: 10px;
+     }
+     #round{
+        display: flex;
+        justify-content: space-between;
+
+     }
+     #girl{
+        color: white;
+        margin-top: 2px;
+        font-size: 15px;
+    
+     }
+     #block1>h1{
+        margin-top: 100px;
+        margin-left: 25px;
+        color: white;
+        font-size: 30px;
+        font-family: Arial, Helvetica, sans-serif;
+     }
+     #cards{
+        display: flex;
+        flex-wrap: wrap;
+     }
+     .card1{
+        background-color: #5e4a4a;
+        height: 70px;
+        width: 200px;
+        color:white;
+        margin: auto;
+        
+        
+     }   
+     .card1>h4{
+        margin-top: 0px;
+        margin-left: 60px;
+     }
+     .card1>img{
+        height: 60px;
+        width: 50px;
+        margin-top: 5px;
+        background-color: blue;
+     }
+     #block2>h1{
+        margin-left: 20px;
+        color: white;
+        margin-top: 100px;
+        font-family: Arial, Helvetica, sans-serif;
+     }
+     #next{
+        display: flex;
+        flex-wrap: wrap;
+        
+     }
+     .next1{
+        margin:auto;
+        
+     }
+     .next1>img{
+        border-radius: 10px;
+     }
+     .next1>h3{
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 400;
+     }
+     .next1>p{
+        color:white;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 10px;
+     }
+     
+     .next2>img{
+        border-radius: 10px;
+        
+
+     }
+     .next2{
+        margin: auto;
+        
+     }
+     #lastbar{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: 200px;
+        
+     }
+     #lastbar>img{
+        margin-top: 10px;
+     }
+     #lastbar>h3{
+        display: inline;
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+
+     }
+     #lastbar>p{
+        display: inline;
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 70px;
+        
+     }
+     #bar{
+        height: 5px;
+        width: 104.35px;
+        background-color: rgba(196,196,196,1);
+     }
+     #part1{
+        display: flex;
+        color: white;
+        margin-top: 20px;
+        margin-left: 20px;
+        
+     }
+     #part1>img{
+        margin: 10px;
+        margin-left: 20px;
+     }
+     #part2{
+        display: flex;
+        margin-top: 50px;
+        
+     }
+     
+     
+     #part3{
+        display: flex;
+        margin-top: 50px;
+        
+     }
+     #time{
+        width: 511px;
+        height: 5px;
+        background-color: rgba(196,196,196,1);
+     }
+     nav{
+        background-color: green;
+        display: flex;
+        justify-content: right;
+     }
+     #spotify2{
+      margin-top: 50px;
+     }
+     #taskbar>h2{
+      color: white;
+     }
+     
+   
+     
+    
+     
